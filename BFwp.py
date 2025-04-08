@@ -1,6 +1,6 @@
 # ==============================================
 #  🔥 WP Brute Force Tool 🔥
-#  📌 Author   : [Red Team Exploits]
+#  🥷 Author   : [Red Team Exploits]
 #  📌 Version  : 1.2
 #  📌 Facebook : www.facebook.com/Bascex
 #  📌 Bug Report: Simpan bug di results/bug_report.txt
@@ -134,7 +134,7 @@ def report_bug():
 # 🔹 Fungsi menu utama
 def print_info():
     console.print("🔥 WP Brute Force Tool 🔥", style="bold cyan")
-    console.print("📌 Author   : [Red-Team-Exploit]", style="bold green")
+    console.print("🧑‍💻 Author   : [Red-Team-Exploit]", style="bold green")
     console.print("📌 Version  : 1.2", style="bold yellow")
     console.print("📌 Facebook : Cex Burnedead", style="blue")
     console.print("📌 Bug Report: Simpan bug di results/bug_report.txt", style="bold red")
